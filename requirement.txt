@@ -1,6 +1,7 @@
 streamlit
-opencv-python
+opencv-python==4.8.1
 numpy
 keras
 pandas
 tensorflow
+python==3.9.7
