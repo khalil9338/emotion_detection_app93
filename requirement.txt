@@ -5,3 +5,15 @@ keras
 pandas
 tensorflow
 python==3.9.7
+tensorflow>=2.0
+keras>=2.4
+numpy>=1.19
+pandas>=1.1
+opencv-python>=4.5
+opencv-contrib-python>=4.5
+scikit-image>=0.17
+pillow>=8.0
+streamlit>=1.0
+matplotlib>=3.2
+scikit-learn>=0.23
+h5py>=2.10
